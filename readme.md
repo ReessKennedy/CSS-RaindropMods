@@ -1,7 +1,6 @@
 Remote link: 
 
 ## Why? 
----
 Raindrop's UI is generally great, except where it's not. 
 
 Notes: 
@@ -11,11 +10,11 @@ Tags:
 Too much line height here.
 
 ## Process
----
+
 I use a Chrome extension to insert CSS modifications. There are a few that do this but I use User Javscript and CSS since it allows you to insert both in one extension. Here it is: https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
 
 ## Code
----
+
 
 ### Note CSS
 I use the dark theme and this adds a white background and changes the font family so my notes really stand out. 
